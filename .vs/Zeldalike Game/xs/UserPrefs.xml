@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4B33FFE2-2BF6-25EA-AB5B-017F3AD15445}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Log.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="78" Column="40" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" />
+      <File FileName="Assets/Scripts/RoomMove.cs" />
+      <File FileName="Assets/Scripts/Sign.cs" />
+      <File FileName="Assets/Scripts/Pot.cs" Line="24" Column="35" />
+      <File FileName="Assets/Scripts/PlayerHit.cs" Line="23" Column="47" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="10" Column="28" />
+      <File FileName="Assets/Scripts/Log.cs" Line="28" Column="85" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zeldalike Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Log.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1cc2a9db-82d8-4eab-ab13-2367aece7566" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
